@@ -1,0 +1,13 @@
+{
+  "name": "FA2.py Demo",
+  "version": "version_20201222_tzip_330b33a_mutran_contract",
+  "description": "This is a didactic reference implementation of FA2, a.k.a. TZIP-012, using SmartPy.\n\nThis particular contract uses the configuration named: FA2-mutez.\n\nIt is “The default with mutez transfer entry-point.”\n\nThis instance is meant to show/test various\nfeatures of https://tzcomet.io, with a few more or less valid tokens …\n\nFeel free to report issues at https://github.com/tqtezos/TZComet/issues.",
+  "interfaces": [
+    "TZIP-012-2020-12-24",
+    "TZIP-021"
+  ],
+  "authors": [
+    "Seb Mondet <https://seb.mondet.org>"
+  ],
+  "homepage": "https://gitlab.com/smondet/fa2-smartpy"
+}
